@@ -524,7 +524,7 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
     <p class="mb-4">Vous souhaitez collaborer avec nous ou en savoir plus sur nos services ?</p>
     <p class="mb-2">📧 Email : contact@treston-huberlus.com</p>
     <p class="mb-2">📞 Téléphone : +XXX XXX XXX</p>
-    <p>🏢 Adresse : [Ton adresse complète]</p>
+    <p>🏢 Adresse : [08,Avenue Esanga, Quartier CPA Mushie, Quartier Mbudi-Terminus, Commune de Mont-Ngafula, Kinshasa, République Démocratique du Congo]</p>
   </section>
 
   <!-- Footer -->
