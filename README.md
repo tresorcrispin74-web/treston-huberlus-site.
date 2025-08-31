@@ -450,3 +450,5 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
   </footer>
 </body>
 </html>
+
+<a href="capability.html" class="hover:text-blue-500">Capability Statement</a>
