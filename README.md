@@ -550,9 +550,9 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
         legalText: `
           <p><strong>Raison sociale :</strong> TRESTON HUBERLUS Invest & Co.,Ltd</p>
           <p><strong>Secteurs d'activité :</strong> Immobilier, Construction, Travaux publics</p>
-          <p><strong>Siège social :</strong> [Ton adresse complète]</p>
+          <p><strong>Siège social :</strong> [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]</p>
           <p><strong>Email :</strong> contact@treston-huberlus.com</p>
-          <p><strong>Téléphone :</strong> +XXX XXX XXX</p>
+          <p><strong>Téléphone :</strong> +243859105718, +243811431593</p>
         `,
         privacy: "Politique de confidentialité",
         privacyText: `
