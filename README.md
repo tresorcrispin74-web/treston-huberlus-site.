@@ -671,7 +671,7 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
         contactText: `
           <p><strong>Email :</strong> contact@treston-huberlus.com</p>
           <p><strong>Téléphone :</strong> +243859105718, +243811431593</p>
-          <p><strong>Siège social :</strong> [Ton adresse complète]</p>
+          <p><strong>Siège social :</strong> [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]</p>
         `,
         download: "Télécharger le Corporate Profile (PDF)"
       },
@@ -710,7 +710,7 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
         contactText: `
           <p><strong>Email:</strong> contact@treston-huberlus.com</p>
           <p><strong>Phone:</strong> +243859105718, +243811431593</p>
-          <p><strong>Head office:</strong> [Your full address]</p>
+          <p><strong>Head office:</strong> [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]</p>
         `,
         download: "Download Corporate Profile (PDF)"
       }
