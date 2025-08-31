@@ -345,7 +345,7 @@ img src="logo.png" alt="Logo" class="h-8 w-auto"
         contact: "Contact institutionnel",
         address: "Siège : [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]",
         email: "Email : contact@treston-huberlus.com",
-        phone: "Téléphone : +XXX XXX XXX",
+        phone: "Téléphone : +243859105718, +243811431593",
         pdf: "📄 Télécharger en PDF"
       },
       en: {
